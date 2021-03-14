@@ -100,25 +100,6 @@ Key to total goals betting odds:
 - B365>2.5 = Bet365 over 2.5 goals
 - B365<2.5 = Bet365 under 2.5 goals
 
-Key to Asian handicap betting odds:
-
-- BbAH = Number of BetBrain bookmakers used to Asian handicap averages and maximums
-- BbAHh = Betbrain size of handicap (home team)
-- BbMxAHH = Betbrain maximum Asian handicap home team odds
-- BbAvAHH = Betbrain average Asian handicap home team odds
-- BbMxAHA = Betbrain maximum Asian handicap away team odds
-- BbAvAHA = Betbrain average Asian handicap away team odds
-
-- GBAHH = Gamebookers Asian handicap home team odds
-- GBAHA = Gamebookers Asian handicap away team odds
-- GBAH = Gamebookers size of handicap (home team)
-- LBAHH = Ladbrokes Asian handicap home team odds
-- LBAHA = Ladbrokes Asian handicap away team odds
-- LBAH = Ladbrokes size of handicap (home team)
-- B365AHH = Bet365 Asian handicap home team odds
-- B365AHA = Bet365 Asian handicap away team odds
-- B365AH = Bet365 size of handicap (home team)
-
 Football-Data would like to acknowledge the following sources which have been utilised in the compilation of Football-Data's results and odds files.
 
 Historical results:
